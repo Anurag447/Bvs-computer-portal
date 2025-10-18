@@ -1,0 +1,8 @@
+
+.carousel-item img {
+  height: 90vh;       /* Full screen height */
+  object-fit: cover;   /* Proper crop */
+}
+
+
+
